@@ -4,7 +4,7 @@ CicipDiary adalah aplikasi Android yang dirancang untuk membantu Anda menemukan 
 
 ---
 
-## 📸 a. Screenshot Aplikasi
+##  a. Screenshot Aplikasi
 
 Aplikasi ini mendukung Mode Terang (Light Mode) dan Mode Gelap (Dark Mode). Berikut adalah tampilan antarmuka dari CicipDiary:
 
