@@ -1,5 +1,10 @@
-# CicipDiary 
+### Nama : Dera Amelia
+### NIM   : H1D024002
+### SHIFT AWAL : F
+### SHIFT AKHIR : E
 
+# RESPONSI PRAKTIKUM MOBILE SHIFT E
+# CicipDiary 
 CicipDiary adalah aplikasi Android yang dirancang untuk membantu Anda menemukan dan menyimpan resep makanan dari berbagai belahan dunia. Aplikasi ini dibangun dengan teknologi modern dari ekosistem Android untuk memberikan pengalaman pengguna yang cepat, responsif, dan menarik secara visual.
 
 ---
