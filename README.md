@@ -90,4 +90,4 @@ Aplikasi ini diimplementasikan dengan stack Android modern (Modern Android Devel
 
 Dengan *tech-stack* ini, CicipDiary tidak hanya ringan dan cepat, namun juga *maintainable* dan siap jika ingin dikembangkan lebih jauh.
 
-### link Youtube Responsi : https://www.youtube.com/watch?v=2M1hXMJlOcQ 
+### link Youtube Responsi : https://www.youtube.com/@deraamelia2734
