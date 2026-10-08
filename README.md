@@ -89,3 +89,5 @@ Aplikasi ini diimplementasikan dengan stack Android modern (Modern Android Devel
 - **State Management:** Menggunakan representasi *UiState* di dalam ViewModel, yang diekspos sebagai `StateFlow` dan dikonsumsi oleh Compose menggunakan `collectAsState()`.
 
 Dengan *tech-stack* ini, CicipDiary tidak hanya ringan dan cepat, namun juga *maintainable* dan siap jika ingin dikembangkan lebih jauh.
+
+### link Youtube Responsi : https://www.youtube.com/watch?v=2M1hXMJlOcQ 
